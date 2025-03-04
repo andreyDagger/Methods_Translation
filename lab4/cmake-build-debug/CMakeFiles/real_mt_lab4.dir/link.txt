@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\real_mt_lab4.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\real_mt_lab4.dir/objects.a @CMakeFiles\real_mt_lab4.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\real_mt_lab4.dir/objects.a -Wl,--no-whole-archive  -o real_mt_lab4.exe -Wl,--out-implib,libreal_mt_lab4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\real_mt_lab4.dir\linklibs.rsp
