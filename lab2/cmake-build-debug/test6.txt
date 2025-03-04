@@ -1,0 +1,5 @@
+bool w, *r;
+int q1, q2, ***q3;    string AA, BB;
+
+
+        int kek;
